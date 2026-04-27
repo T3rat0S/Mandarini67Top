@@ -116,17 +116,17 @@
 
 <br>
 
-<table border="2" style="background-color: teal; border-color: maroon;">
-<tr>
-    <td style="background-color: yellow;">Первая колонка</td>
+<table border="2" bordercolor="#800000" bgcolor="#008080">
+  <tr>
+    <td bgcolor="yellow">Первая колонка</td>
     <td>Вторая колонка</td>
-    <td style="background-color: yellow;">Третья колонка</td>
-</tr>
-<tr>
+    <td bgcolor="yellow">Третья колонка</td>
+  </tr>
+  <tr>
     <td>Первая колонка</td>
-    <td style="background-color: yellow;">Вторая колонка</td>
+    <td bgcolor="yellow">Вторая колонка</td>
     <td>Третья колонка</td>
-</tr>
+  </tr>
 </table>
 
 <hr>
