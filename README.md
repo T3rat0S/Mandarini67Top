@@ -70,3 +70,49 @@
 </html>
 </body>
 </html>
+<body bgcolor="lightblue" background="шары.jpg">
+    <html>
+<head>
+    <title>Пример</title>
+</head>
+
+<body bgcolor="lightblue" background="шары.jpg">
+  
+<p>
+В лесу родилась 
+<img src="елка.bmp" align="left">
+елочка, в лесу она росла.
+</p>
+
+<br><br><br>
+
+<p>
+Пример выравнивания справа:
+<img src="елка.bmp" align="right">
+Текст обтекает изображение слева.
+</p>
+
+<br><br><br>
+
+<p>
+Выравнивание по верхнему краю:
+<img src="елка.bmp" align="top">
+Текст сверху.
+</p>
+
+<p>
+Выравнивание по центру:
+<img src="елка.bmp" align="middle">
+Текст по центру.
+</p>
+
+
+<img src="елка.bmp" align="bottom">
+
+
+
+</body>
+</html>
+
+</body>
+</html>
