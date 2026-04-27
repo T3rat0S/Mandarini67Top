@@ -1,1 +1,22 @@
-# Mandarini67Top
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Практика</title>
+</head>
+<html><title>первые стихи</title>
+<body>
+    <h1 align=left>Мое имя Кирилл</h1>
+<h2 align=center>Я учусь в 11 классе</h2>
+<h3 align=right>Моя любимая песенка</h3>
+    <p align=center>Привет! Это моя первая страничка!</p>
+    <p align=left>В лесу родилась елочка
+        В лесу она росла</p>
+        <p align=right>Метель ей пела песенку 
+            Спи елочка байбай
+            Мороз снежком укутывал
+            Смотри не замерзай
+        </p>
+</body>
+</html>
