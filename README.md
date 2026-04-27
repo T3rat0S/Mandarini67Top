@@ -28,7 +28,7 @@
 Привет! Это моя первая страничка! </big> </font>
 <font color ="#ffff00">
 <h1 align=left>Меня зовут </h1>
-<h2 align=center> Я учусь в классе </h2> <h3 align=right>Это моя любимая песенка</h3> </font>
+<h2 align=center> Я учусь в 11 классе </h2> <h3 align=right>Это моя любимая песенка</h3> </font>
 <p align=left> <font face="Comic Sans MS">
 В лесу родилась <i>елочка
 </i><br>
@@ -50,7 +50,7 @@
     <font face="Arial Black"><font color="#ff0000><big>
 Привет! Это моя первая страничка! </big> </font>
 <font color ="#ffff00">
-<h1 align=left>Меня зовут </h1>
+<h1 align=left>Меня зовут Кирилл </h1>
 <h2 align=center> Я учусь в классе </h2> <h3 align=right>Это моя любимая песенка</h3> </font>
 <p align=left> <font face="Comic Sans MS">
 В лесу родилась <i>елочка
