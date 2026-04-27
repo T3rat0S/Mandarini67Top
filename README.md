@@ -112,6 +112,47 @@
 
 
 </body>
+<body>
+    <html>
+<body>
+
+    <html>
+<body>
+
+<table border="2">
+  <tr>
+    <td >Первая колонка</td>
+    <td>Вторая колонка</td>
+    <td >Третья колонка</td>
+  </tr>
+  <tr>
+    <td>Первая колонка</td>
+    <td>Вторая колонка</td>
+    <td>Третья колонка</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+<table border="2" bordercolor="#800000" bgcolor="#008080">
+  <tr>
+    <td bgcolor="yellow">Первая колонка</td>
+    <td>Вторая колонка</td>
+    <td bgcolor="yellow">Третья колонка</td>
+  </tr>
+  <tr>
+    <td>Первая колонка</td>
+    <td bgcolor="yellow">Вторая колонка</td>
+    <td>Третья колонка</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+</body>
+</html>
 </html>
 
 </body>
