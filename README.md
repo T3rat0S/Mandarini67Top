@@ -2,7 +2,7 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <title>Практика Кирилла</title>
+    Практика Кирилла
 
 </head>
 
