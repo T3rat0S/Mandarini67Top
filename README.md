@@ -65,11 +65,7 @@
     <font face="Monotype Corsiva">
 «Смотри, не замерзай!»</font>
 </body> </html>
-</body> </html>
-</body>
-</html>
-</body>
-</html>
+
 <body bgcolor="lightblue" background="шары.jpg">
     <html>
 <head>
@@ -111,14 +107,6 @@
 
 
 
-</body>
-<body>
-    <html>
-<body>
-
-    <html>
-<body>
-
 <table border="2">
   <tr>
     <td >Первая колонка</td>
@@ -132,8 +120,7 @@
   </tr>
 </table>
 
-</body>
-</html>
+
 
 <table border="2" bordercolor="#800000" bgcolor="#008080">
   <tr>
@@ -148,23 +135,7 @@
   </tr>
 </table>
 
-</body>
-</html>
 
-</body>
-</html>
-</html>
-
-</body>
-</html>
-<body>
-    <!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>Списки</title>
-</head>
-<body>
 
 <h2>Простой маркированный список</h2>
 <ul>
@@ -201,7 +172,6 @@
     <li>Обучение за рубежом</li>
 </ul>
 
-</body>
-</html>
+
 </body>
 </html>
