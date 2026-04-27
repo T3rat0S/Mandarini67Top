@@ -4,25 +4,6 @@
     <meta charset="UTF-8">
     <title>Практика Кирилла</title>
 
-    <style>
-        body {
-            background-color: lightblue;
-            color: blue;
-            font-family: Arial, sans-serif;
-        }
-
-        h1 { text-align: left; }
-        h2 { text-align: center; }
-        h3 { text-align: right; }
-
-        .center { text-align: center; }
-        .left { text-align: left; }
-        .right { text-align: right; }
-
-        hr {
-            margin: 30px 0;
-        }
-    </style>
 </head>
 
 <body>
