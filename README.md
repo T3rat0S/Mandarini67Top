@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Практика</title>
 </head>
-<html><title>первые стихи</title>
+<html>
+    <title>первые стихи</title>
 <body>
     <h1 align=left>Мое имя Кирилл</h1>
 <h2 align=center>Я учусь в 11 классе</h2>
